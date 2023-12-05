@@ -1,2 +1,2 @@
 # LOGIN-UI
-![UI](ui.png)
+![UI](ui.gif)
